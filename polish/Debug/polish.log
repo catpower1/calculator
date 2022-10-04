@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\ммм\source\repos\polish\polish\mylist.h(56,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ммм\source\repos\polish\polish\Main.cpp(51): warning C4715: 'decode': not all control paths return a value
+C:\Users\ммм\source\repos\polish\polish\stack.h(62): warning C4715: 'Stack<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::pop': not all control paths return a value
+C:\Users\ммм\source\repos\polish\polish\queue.h(59): warning C4715: 'Queue<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::pop': not all control paths return a value
+C:\Users\ммм\source\repos\polish\polish\queue.h(65): warning C4715: 'Queue<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::peek': not all control paths return a value
+C:\Users\ммм\source\repos\polish\polish\mylist.h(46): warning C4715: 'MyList::getElement': not all control paths return a value
+C:\Users\ммм\source\repos\polish\polish\stack.h(49): warning C4715: 'Stack<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::peek': not all control paths return a value
+  polish.vcxproj -> C:\Users\ммм\source\repos\polish\Debug\polish.exe
